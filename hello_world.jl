@@ -1,5 +1,6 @@
 
 using JLD2
+using Makie
 
 println("Hello from Julia!")
 
